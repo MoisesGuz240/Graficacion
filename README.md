@@ -1,1 +1,1 @@
-!(https://github.com/MoisesGuz240/Graficacion/blob/master/Resultado.png)
+![](https://github.com/MoisesGuz240/Graficacion/blob/master/Resultado.png)
